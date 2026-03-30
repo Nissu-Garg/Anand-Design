@@ -82,8 +82,7 @@ We are a creative agency based in **Jabalpur, Madhya Pradesh**, providing end-to
 
 ### 📞 Contact & Support
 - **Main Website:** [ananddesign.in](https://ananddesign.in)
-- **Email:** [ananddesignjbp@gmail.com](mailto:ananddesignjbp@gmail.com)
-- **Location:** Saliwada, Gour, Jabalpur, MP, 482001
+- **Email:** [ananddesignjbp@gmail.com](mailto:ananddesignjbp@gmail.com)- 
 
 ---
 *Developed with ❤️ by **Anand Design**. If you find our tools useful, please give this repository a ⭐!*
