@@ -4,6 +4,36 @@ Welcome to the official GitHub hub for **Anand Design Jabalpur**. We specialize 
 
 This repository serves as a central directory for our live-hosted tools and professional services.
 
+🛠 Coding & Data Tools
+JSON Formatter: https://tools.ananddesign.in/json-formatter
+
+SQL Beautifier: https://tools.ananddesign.in/sql-beautifier
+
+JSON to PHP Converter: https://tools.ananddesign.in/json-to-php-converter
+
+Javascript Minifier: https://tools.ananddesign.in/javascript-minifier
+
+🔒 Security & Verification
+Secure Password Generator: https://tools.ananddesign.in/secure-password-generator
+
+JWT Decoder: https://tools.ananddesign.in/jwt-decoder
+
+Bcrypt Generator: https://tools.ananddesign.in/bcrypt-generator
+
+📈 SEO & Web Utilities
+Meta Tag Generator: https://tools.ananddesign.in/meta-tag-generator
+
+Robots.txt Generator: https://tools.ananddesign.in/robots-txt-generator
+
+Whois Lookup: https://tools.ananddesign.in/whois-lookup
+
+🎨 Design & Graphics
+SVG Editor: https://tools.ananddesign.in/svg-editor
+
+Image Optimizer: https://tools.ananddesign.in/img-optimizer
+
+QR Generator: https://tools.ananddesign.in/qr-generator
+
 ---
 
 ## 🛠️ Our Live Web Tools (Free to Use)
